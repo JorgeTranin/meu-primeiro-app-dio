@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name" translatable="false">MeuPrimeiroAppDIO</string>
+    <string name="meu_app_com_traducoes_para_outros_idiomas_ingl_s_espanho_italiano_e_portugu_s" translatable="false">Meu App com traduções para outros idiomas(Inglês, Espanho, Italiano e português)</string>
+    <string name="todo">TODO</string>
 </resources>
